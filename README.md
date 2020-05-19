@@ -1,2 +1,2 @@
-# Machine-Learning-Short-Projects-on-different-Algorithms
+# Machine-Learning-Short-Projects-on-Different-Algorithms
 Short projects on different algorithms of machine learning for deeper understanding of each algorithm and its application. Algorithms included are: Linear Regression | Logistic Regression | KNN (K Nearest Neighbors) |  Decision Tree and Random Forrest | SVM (Support Vector Machines) | K Means Clustering | Recommender Systems | NLP (Natural Language Processing) | Neural Nets and Deep Learning 
